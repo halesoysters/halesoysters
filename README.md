@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello World ![cf](cf.png)
 
-<!--
-**halesoysters/halesoysters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Hale, an education upskilling and career mobility enthusiast 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on on finishing up a data analytics bootcamp
+
+
+📚 I’m currently working on Python, SQL and taking on ETL
+
+
+📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/halesoyster/)
+
