@@ -6,7 +6,7 @@
 🔭 I’m currently working on on finishing up a data analytics bootcamp
 
 
-📚 I'm focusing on learning more about Python, SQL big data
+📚 I'm focusing on learning more about Python, SQL, big data and supervised and unsupervised machine learning
 
 
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/halesoyster/)
