@@ -1,7 +1,7 @@
-# Hello World ![cf](cf.png)
+![cf](cf.png)
 
 
-I'm Hale, an education upskilling and career mobility enthusiast 👋
+## I'm Hale, an education upskilling and career mobility enthusiast 👋
 
 🔭 I’m currently working on on finishing up a data analytics bootcamp
 
