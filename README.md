@@ -1,13 +1,11 @@
 ![cf](cf.png)
 
-
-## I'm Hale, an education upskilling and career mobility enthusiast 👋
-
-🔭 I’m currently working on finishing a data analytics bootcamp
+# Hi there, I'm Hale! 
 
 
-📚 I'm focusing on learning more about Python, SQL, big data and supervised and unsupervised machine learning
+I'm an aspiring Data Analyst working in customer success and business intelligence for one of America's most influential edtech companies.  
 
+🎯 I’m currently finishing a data analytics bootcamp and open to analyst roles working in SQL, Python, Tableau, Big Data and Machine Learning.  
 
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/halesoyster/)
 
