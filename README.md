@@ -9,3 +9,5 @@
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/halesoyster/)
 
 📊 [Here's](https://b-team-final.herokuapp.com/) the link to our final group project.  I was responsible for deploying the website to Heroku, coding the interactive visualizations with Plotly, and writing the SQL code to create the tables and host the database using PostgreSQL.  
+
+![map](map.png)
