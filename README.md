@@ -2,7 +2,7 @@
 
 # Hi there, I'm Hale! 
 
-👔 I'm an aspiring data analyst working in customer success and business intelligence for one of America's most influential edtech companies.  
+👔 I'm a data analyst onboarding new Fortune 500 partners into the Guild marketplace by leading data and reporting workstreams for one of America's most influential edtech companies.  
 
 🎯 I completed the data analytics boot camp certificate with Michigan State in November 2022 and am open to analyst roles working in SQL, Python, Tableau, Big Data and Machine Learning.  
 
